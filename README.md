@@ -11,7 +11,7 @@ What you will need
 *	[Wires(M-M, M-F, F-F)](https://ar.banggood.com/3-IN-1-120pcs-10cm-Male-To-Female-Female-To-Female-Male-To-Male-Jumper-Cable-Dupont-Wire-For-Arduino-p-1054670.html?cur_warehouse=CN) 
 *	Laptop
 *	[USB 2.0 Cable Type A/B](https://store.arduino.cc/usa/usb-2-0-cable-type-a-b)
-•	Fishing wire or similar wire.
+* Fishing wire or similar wire.
 
 # Assembling your finger
 
