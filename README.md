@@ -8,7 +8,7 @@ What you will need
 * [1 Arduino Uno](https://www.sparkfun.com/products/11021)
 *	[1 Myoware device](https://www.sparkfun.com/products/13723)
 *	[Electrodes](https://www.sparkfun.com/products/12969)
-*	[Wires(M-M, M-F, F-F)](https://ar.banggood.com/3-IN-1-120pcs-10cm-Male-To-Female-Female-To-Female-Male-To-Male-Jumper-Cable-Dupont-Wire-For-Arduino-p-1054670.html?cur_warehouse=CN) 
+*	[Jumper Wires(M-M, M-F, F-F)](https://www.sparkfun.com/products/9194) 
 *	Laptop
 *	[USB 2.0 Cable Type A/B](https://store.arduino.cc/usa/usb-2-0-cable-type-a-b)
 * Fishing wire or similar wire.
